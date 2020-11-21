@@ -24,6 +24,7 @@ Links and Resources from my MonkeyFest2020 talk
 * **Gerald Versluis** - https://www.youtube.com/GeraldVersluis/
 * **Altvir Cardoso** - https://github.com/Altevir
 * **Luis Pujols** - https://www.pujolsluis.com/
+* **Charlin Agramonte** - https://xamgirl.com/
 * **Steven Thewissen** - https://www.thewissen.io/
 * **Jean-Marie Alfonsi** - https://www.sharpnado.com/
 * **Kym Phillpotts** - https://kymphillpotts.com
