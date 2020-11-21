@@ -3,11 +3,12 @@ Links and Resources from my MonkeyFest2020 talk
 
 ## Slides
 
-[![Kym's Twitch Channel](https://kymphillpotts.com/assets/images/twitch_banner.png)](https://twitch.tv/kymphillpotts)
+[![Presentation Slides](https://github.com/kphillpotts/MonkeyFest2020/blob/main/Slide.png)](https://github.com/kphillpotts/MonkeyFest2020/blob/main/Kym%20Phillpotts%20Build%20Amazing%20Things%20from%20SImple%20Things.pdf)
 
 * **My UI Challenges** - https://kymphillpotts.com/uichallenges
 
 --- 
+
 # Links to Amazing Things
 
 ## Inspiration
